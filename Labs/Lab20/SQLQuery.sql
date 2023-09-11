@@ -1,0 +1,12 @@
+CREATE UNIQUE NONCLUSTERED INDEX IX_CarNumber ON Car(Car_Number)
+
+CREATE NONCLUSTERED INDEX IX_PhoneNumber ON Client(Phone_Number)
+
+CREATE TABLE Autopark (
+    AutoparkID INT PRIMARY KEY,
+    Address VARCHAR(255) NOT NULL
+);
+
+CREATE CLUSTERED INDEX IX_Address ON Autopark(Address);
+
+CREATE CLUSTERED INDEX IX_TypeDamage ON Fine(TypeDamage);
