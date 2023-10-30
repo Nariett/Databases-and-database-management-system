@@ -67,5 +67,11 @@ namespace DataBase
             this.clientBindingSource.EndEdit();
             this.tableAdapterManager.UpdateAll(this.carDataBaseDataSet);
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            FormReport report = new FormReport();
+            report.Show();
+        }
     }
 }

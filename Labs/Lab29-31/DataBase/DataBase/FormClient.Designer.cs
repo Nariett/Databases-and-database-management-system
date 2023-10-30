@@ -65,6 +65,7 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
             nameLabel = new System.Windows.Forms.Label();
             surnameLabel = new System.Windows.Forms.Label();
             patronymicLabel = new System.Windows.Forms.Label();
@@ -393,11 +394,22 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(201, 297);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(91, 23);
+            this.button8.TabIndex = 28;
+            this.button8.Text = "Отчет";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
+            // 
             // FormClient
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(404, 326);
+            this.Controls.Add(this.button8);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
@@ -462,5 +474,6 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button8;
     }
 }
