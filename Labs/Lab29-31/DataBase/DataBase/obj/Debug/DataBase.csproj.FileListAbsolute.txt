@@ -1,0 +1,17 @@
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.pdb
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.FormCar.resources
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.FormClient.resources
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.FormDiscounts.resources
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.FormFine.resources
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.FormIssued_Cars.resources
+C:\GitHub\Databases-and-database-management-system\Labs\Lab29\DataBase\DataBase\obj\Debug\DataBase.FormFilter.resources
