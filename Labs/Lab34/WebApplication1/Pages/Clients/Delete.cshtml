@@ -1,0 +1,24 @@
+﻿@page
+@using System.Data.SqlClient;
+@{
+    try
+    {
+        string id = Request.Query["id"];
+        string connectionString = @"Data Source = DESKTOP-RES35B3\SQLSERVER;Initial Catalog = CarDataBase;Integrated Security=True";
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+            string deleteQuery = "DELETE FROM Client WHERE ID_Client = @id";
+            using (SqlCommand deleteCommand = new SqlCommand(deleteQuery, connection))
+            {
+                deleteCommand.Parameters.AddWithValue("@id", id);
+                deleteCommand.ExecuteNonQuery();
+            }
+        }
+    }
+    catch (Exception)
+    {
+        throw;
+    }
+    Response.Redirect("/Clients/Index");
+}

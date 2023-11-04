@@ -1,0 +1,70 @@
+﻿@page
+@model WebApplication1.Pages.Clients.EditModel
+@{
+}
+
+<br>
+<h2>Edit Client</h2>
+
+@if(Model.errorMessage.Length > 0){
+    <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+        <strong>@Model.errorMessage</strong>
+        <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+    </div>
+}
+
+<form method="POST">
+    <input type = "hidden" name = "id" value = "@Model.clientInfo.id">
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Имя</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="name" value="@Model.clientInfo.name">
+        </div>
+    </div>
+     <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Фамилия</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="surname" value="@Model.clientInfo.surname">
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Отчество</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="patronymic" value="@Model.clientInfo.patronymic">
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Телефон</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="phone" value="@Model.clientInfo.phone">
+        </div>
+    </div>
+     <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Адрес</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="addres" value="@Model.clientInfo.addres">
+        </div>
+    </div>
+
+
+    @if (Model.successMessage.Length > 0){
+        <div class="row mb-3">
+            <div class="col-sm-9">
+                <div class='alert alert-success alert-dismissible fade show' role='alert'>
+                    <strong>@Model.successMessage</strong>
+                    <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+                </div>
+            </div>
+        </div>
+    }
+
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+        <button type="submit">Подтвердить</button>
+        </div>
+            <div class="col-sm-3 d-grid">
+                <a  href="/" role="button">Отменить</a>
+        </div>
+    </div>
+</form>

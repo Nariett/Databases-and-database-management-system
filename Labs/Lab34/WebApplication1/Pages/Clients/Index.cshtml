@@ -1,0 +1,48 @@
+﻿@page
+@model WebApplication1.Pages.Clients.IndexModel
+@{
+    @section Scripts {
+    <script>
+                function confirmDelete(id) {
+                    var result = confirm("Уверены, что хотите удалить?");
+                    if (result) {
+                        window.location.href = '/Clients/Delete?id=' + id;
+                    }
+                }
+    </script>
+    }
+}
+
+<br>
+<h2>Список Клиентов</h2>
+<a  href='/Clients/Create'>Новый клиент</a>
+<table class = "table">
+    <thead>
+        <tr>
+            <th>Номер</th>
+            <th>Имя</th>
+            <th>Фамилия</th>
+            <th>Отчество</th>
+            <th>Адрес</th>
+            <th>Номер</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model.listClients)
+        {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.name</td>
+            <td>@item.surname</td>
+            <td>@item.patronymic</td>
+            <td>@item.addres</td>
+            <td>@item.phone</td>
+            <td>
+                <a href="/Clients/Edit?id=@item.id">Редактировать</a>
+               @* <a class="btn btn-danger btn-sm" href="/Clients/Delete?id=@item.id">Delete</a>*@
+                <a onclick="confirmDelete('@item.id')">Удалить</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
