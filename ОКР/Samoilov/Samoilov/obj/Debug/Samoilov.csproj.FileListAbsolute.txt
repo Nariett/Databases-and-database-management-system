@@ -1,0 +1,16 @@
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\bin\Debug\Samoilov.exe.config
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\bin\Debug\Samoilov.exe
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\bin\Debug\Samoilov.pdb
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.csproj.AssemblyReference.cache
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.Form1.resources
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.Properties.Resources.resources
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.csproj.GenerateResource.cache
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.csproj.CoreCompileInputs.cache
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.exe
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.pdb
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.Form2.resources
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.FormA.resources
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.FormB.resources
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.FormС.resources
+C:\Users\samsi\OneDrive\Рабочий стол\Samoilov\Samoilov\obj\Debug\Samoilov.Itog.resources
