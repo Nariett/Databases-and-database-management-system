@@ -1,0 +1,114 @@
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\TripNode.exe.config
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\TripNode.exe
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\TripNode.pdb
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode.csproj.AssemblyReference.cache
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode.csproj.SuggestedBindingRedirects.cache
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\MainWindow.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\AuthForm.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\App.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode_MarkupCompile.cache
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode_MarkupCompile.lref
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\MainWindow.baml
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\AuthForm.baml
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode.g.resources
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode.Properties.Resources.resources
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode.csproj.GenerateResource.cache
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode.csproj.CoreCompileInputs.cache
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode.exe
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode.pdb
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\RegForm.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\RegForm.baml
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\History.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\AddCarForm.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\AddCarForm.baml
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\History.baml
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\AddRouteForm.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\AddRouteForm.baml
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\EditRouteForm.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\EditRouteForm.baml
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\EditCarForm.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\EditCarForm.baml
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\Xceed.Document.NET.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\Xceed.Words.NET.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\TripNode.csproj.CopyComplete
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\ReportForm.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\ReportForm.baml
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\AddFuelForm.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\AddFuelForm.baml
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\EditFuelForm.g.cs
+C:\Users\samsi\OneDrive\Рабочий стол\TripNode\TripNode\obj\Debug\UserForm\EditFuelForm.baml
+D:\Backup\TripNode\TripNode\bin\Debug\TripNode.exe.config
+D:\Backup\TripNode\TripNode\bin\Debug\TripNode.exe
+D:\Backup\TripNode\TripNode\bin\Debug\TripNode.pdb
+D:\Backup\TripNode\TripNode\bin\Debug\Xceed.Document.NET.dll
+D:\Backup\TripNode\TripNode\bin\Debug\Xceed.Words.NET.dll
+D:\Backup\TripNode\TripNode\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Backup\TripNode\TripNode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Backup\TripNode\TripNode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Backup\TripNode\TripNode\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Backup\TripNode\TripNode\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Backup\TripNode\TripNode\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode.csproj.AssemblyReference.cache
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode.csproj.SuggestedBindingRedirects.cache
+D:\Backup\TripNode\TripNode\obj\Debug\MainWindow.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\AddCarForm.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\AddFuelForm.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\AddRouteForm.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\AuthForm.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\EditCarForm.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\EditFuelForm.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\EditRouteForm.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\History.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\RegForm.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\ReportForm.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\App.g.cs
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode_MarkupCompile.cache
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode_MarkupCompile.lref
+D:\Backup\TripNode\TripNode\obj\Debug\MainWindow.baml
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\AddCarForm.baml
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\AddFuelForm.baml
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\AddRouteForm.baml
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\AuthForm.baml
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\EditCarForm.baml
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\EditFuelForm.baml
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\EditRouteForm.baml
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\History.baml
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\RegForm.baml
+D:\Backup\TripNode\TripNode\obj\Debug\UserForm\ReportForm.baml
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode.g.resources
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode.Properties.Resources.resources
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode.csproj.GenerateResource.cache
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode.csproj.CoreCompileInputs.cache
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode.csproj.CopyComplete
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode.exe
+D:\Backup\TripNode\TripNode\obj\Debug\TripNode.pdb
